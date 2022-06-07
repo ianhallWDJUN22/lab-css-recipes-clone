@@ -1,12 +1,13 @@
+
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: sans-serif;
     font-weight: lighter;
     margin: 30px;
     line-height: 1.5;
     
 }
 .apple-pie-image {
-    background-image: url("apple-pie/images/apple-pie.jpg");
+    background-image: url("/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 475px;
@@ -36,7 +37,7 @@ h2 {
     padding-top: 15px;
     font-size: 1.3em;
     font-weight: lighter;
-    padding-left: 47px;
+    padding-left: 80px;
     padding-bottom: 5px;
 }
 
@@ -44,7 +45,7 @@ ul {
     font-size: 1.1em;
     line-height: 1.2;
     list-style-type: none;
-    padding-left: 80px;
+    padding-left: 90px;
     padding-right: 80px;
 }
 div {
