@@ -1,4 +1,3 @@
-
 body {
     font-family: sans-serif;
     font-weight: lighter;
@@ -7,7 +6,7 @@ body {
     
 }
 .apple-pie-image {
-    background-image: url("/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg");
+    background-image: url("/apple-pie/images/apple-pie.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 475px;
